@@ -8,3 +8,5 @@ In this Project, As a junior data scientist at BCG's GenAI Consulting team, I'm 
  * Integrated and interpreted complex financial data from 10-K and 10-Q reports,
    employing rule-based logic to create a chatbot that provides user-friendly
    financial insights and analysis.
+
+[![GitHub Stars](https://img.shields.io/github/stars/manojchandra10/BCG_GenAI_Chatbot_Project?style=social)](https://github.com/manojchandra10/BCG_GenAI_Chatbot_Project/stargazers)
